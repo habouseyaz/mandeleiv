@@ -1,0 +1,72 @@
+h1{
+    margin: 0px;
+}
+td
+{
+    text-align: center;
+    font-size: 50%;
+    width: 5%;
+}
+.n2
+{
+    margin-top: 20px;
+}
+.A
+{
+    background-color: rgba(54, 48, 134, 0.478);
+}
+.B
+{
+    background-color: rgb(97, 162, 200);
+}
+.c
+{
+    background-color:rgb(130, 190, 170)
+}
+.D
+{
+    background-color:  rgb(170, 229, 191);
+}
+.E
+{
+    background-color: rgba(193, 68, 19, 0.635);
+}
+.F
+{
+    background-color: rgb(239, 188, 126);
+}
+.G
+{
+    background-color: rgb(243, 221, 144)
+}
+.H
+{
+    background-color: rgba(239, 78, 14, 0.622);
+}
+.i
+{
+    background-color: rgba(178, 30, 72, 0.793);
+}
+.J
+{
+    background-color: rgb(239, 239, 190);
+}
+img
+{ 
+    text-align: center;
+    margin: auto;
+    display: flex;
+   border-radius: 90%;
+
+}
+@media all and (min-width: 1024px)
+{
+    body{
+        font-size: 0.9vw;
+    }
+   
+}
+p
+{
+text-align: center;
+}
